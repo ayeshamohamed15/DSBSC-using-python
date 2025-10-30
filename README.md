@@ -36,5 +36,7 @@ The general form of the DSBSC signal is:
 
 ## Tabular Column
 
+![WhatsApp Image 2025-10-30 at 14 31 42_4093239b](https://github.com/user-attachments/assets/7dafa5ff-f260-4e56-8e04-ef3548bfdb01)
+
 ## Result
 Thus the DSB-SC-AM Modulation and Demodulation using Python code is generated.
